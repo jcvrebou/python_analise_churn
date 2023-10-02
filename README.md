@@ -1,4 +1,4 @@
-# CATEGORIZAR NOVOS CLIENTES COM BASE EM MODELO DE PREVISÃO
+# ANÁLISE CHURN
 
 ### Introdução
 
@@ -22,9 +22,6 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 
 ### Passo 5: Realizar análise explanatória, afim de expor as principais informações
 
-
-
 #### Nota: Toda a codificação foi feita por este usuário, tendo como base a aula "Análise de Dados com Python" do canal [Hashtag Programação]('https://www.youtube.com/@HashtagProgramacao/playlists').
-
 
 ### :) Siga-me no [linkedin]('https://www.linkedin.com/in/jcvreboucas/')
